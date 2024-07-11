@@ -1,0 +1,19 @@
+.container
+{
+    text-align: inherit;
+    text-emphasis-color: red;
+    font-size:"100";
+}
+
+.container .h1
+{   
+    text-align: inherit;
+    text-emphasis-color: red;
+    font-size:"100";
+}
+
+.container .ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    flex-wrap: inherit;
+}
